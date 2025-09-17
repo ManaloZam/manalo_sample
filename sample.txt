@@ -2,7 +2,7 @@
 <html>
     <head>
         <title>Curriculum Vitae</title>
-        <meta name="keywords" content="contact number"/>
+        <meta name="keywords" content="name"/>
         <meta name="refresh" content="10"/>
 
         <style>
@@ -86,4 +86,5 @@
             <li>Helen Manalo: 09782415367</li>
            </ul>
     </body>
+
 </html>
