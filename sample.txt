@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Curriculum Vitae</title>
+        <meta name="keywords" content="contact number"/>
+        <meta name="refresh" content="10"/>
+
+        <style>
+            body{
+            border: 10px solid pink;
+            height:200vh;
+            box-sizing: border-box;
+            font-family: 'Courier New', Courier, monospace;
+            background-color: aquamarine;
+            }
+
+        h1{
+    text-align: center;
+        }
+        div.top{
+            font-family: 'Courier New', Courier, monospace;
+            font-size: medium;
+            font-style: oblique;
+            border-color: aqua;
+            width:auto;
+            text-align:center;
+
+        }
+        a{
+            align:center;
+            width: 100;
+            height:100;
+        }
+        .bottom{
+            text-align: left;
+            font-style: normal;
+
+        }
+        
+       
+        </style>
+
+    </head>
+
+    <body>
+        <div class="top">
+        <h1>Curriculum Vitae</h1>
+ 
+        <img src="dog.jpg" align="center" height="200" width="200">
+        <p><u>Zamantha Artlyn O. Manalo</u></p>
+        <a href="mailto:manalozamantha@gmail.com">Email Address</a>
+        <br>
+        <a href="youtube.com"><img src="dog.jpg" height="50" weight="50"></a>
+        </div>
+<br>
+        <div id="bottom">
+            <P>PERSONAL INFORMATION</P>
+            <p>Age: 20 years old</p>
+            <p>Birthday: October 25, 2004</p>
+            <p>Birth Place: Los Baños, Laguna</p>
+            <p></p>
+        </div>
+        <br><hr>
+        
+           <pre>Tertiary:            Polytechnic University of the Philippines</pre>
+           <pre>Senior High School:  Child Formation Center of Sta. Rosa Inc.</pre>
+           <pre>High School:         Cabuyao Integrated National Highschool</pre>
+           <pre>Elementary:          Malitlit Elementary School</pre>
+    
+           <br><hr>
+
+           <pre>SKILLS</pre>
+           <ol type="1">
+            <li>Can collaborate with other people</li>
+            <li>Can communicate</li>
+            <li>Basic computer skills</li>
+           </ol>
+<br><hr>
+           <p>CONTACT INFORMATION</p>
+           <p>Contact Information: 09196319830</p>
+           <br><hr>
+
+           <p>CHARACTER REFERENCES</p>
+           <ul type="disc">
+            <li>Arnold Manalo: 09142567257</li>
+            <li>Helen Manalo: 09782415367</li>
+           </ul>
+    </body>
+</html>
